@@ -1,0 +1,19 @@
+{
+  "id": "./hr-home",
+  "name": "NTAM HR Portal",
+  "short_name": "NTAM HR Portal",
+  "lang": "zh-Hant",
+  "start_url": "./launch.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#0e2a4d",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "93x96",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
